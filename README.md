@@ -49,10 +49,50 @@ Este projeto apresenta uma análise detalhada dos dados históricos do Ibovespa 
   - Desenvolver pipelines automatizados de análise e previsão de séries temporais.
   - Criar visualizações para explorar dados históricos e suas implicações.
 
----
 
-## Como Executar
-1. Certifique-se de ter o Python 3.9+ instalado.
-2. Instale as bibliotecas utilizando o comando:
-   ```bash
-   pip install 
+
+## Cientistas de Dados
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <div>
+        <img src="https://avatars.githubusercontent.com/kelvynamaral" width="120px;" alt="Foto no GitHub" class="profile"/><br>
+          <b> Kelvyn Amaral  </b><br>
+            <a href="https://www.linkedin.com/in/kelvyncandido/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+            <a href="https://github.com/KelvynAmaral" alt="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+      </div>
+    </td>
+
+   <td align="center">
+      <div>
+        <img src="https://avatars.githubusercontent.com/u/175426437?v=4" width="120px;" alt="Foto no GitHub" class="profile"/><br>
+          <b> Anderson Silva  </b><br>
+            <a href="http://linkedin.com/in/anderson-silva-208a32127" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+            <a href="https://github.com/Ahsbi" alt="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+      </div>
+    </td>
+   <td align="center">
+      <div>
+        <img src="https://avatars.githubusercontent.com/u/64284099?v=4" width="120px;" alt="Foto no GitHub" class="profile"/><br>
+          <b> Sandra Zegarrundo  </b><br>
+            <a href="https://www.linkedin.com/in/sandra-zegarrundo/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+            <a href="https://github.com/SandraRojasZ" alt="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+      </div>
+    </td>
+  <td align="center">
+      <div>
+        <img src="https://avatars.githubusercontent.com/u/63881992?v=4" width="120px;" alt="Foto no GitHub" class="profile"/><br>
+          <b> Michael Yuri   </b><br>
+            <a href="https://www.linkedin.com/in/michael-yuri1758/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+            <a href="https://github.com/MichaelYuri" alt="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+      </div>
+    </td>
+  <td align="center">
+      <div>
+        <img src="https://avatars.githubusercontent.com/u/169390188?v=4" width="120px;" alt="Foto no GitHub" class="profile"/><br>
+          <b> Evandro Garbin </b><br>
+           <a href="https://www.linkedin.com/in/evandro-garbin-23788681/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+            <a href="https://github.com/EvandroGarbin" alt="Github"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+      </div>
+    </td>
